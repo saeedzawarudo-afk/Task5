@@ -1,0 +1,3 @@
+NAME                            READY   STATUS    RESTARTS   AGE   IP           NODE       NOMINATED NODE   READINESS GATES
+hello-deploy-7867bdf9c5-s64w6   1/1     Running   0          39m   10.244.0.4   minikube   <none>           <none>
+hello-deploy-7867bdf9c5-twz44   1/1     Running   0          39m   10.244.0.3   minikube   <none>           <none>

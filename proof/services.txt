@@ -1,0 +1,2 @@
+NAME        TYPE       CLUSTER-IP     EXTERNAL-IP   PORT(S)        AGE   SELECTOR
+hello-svc   NodePort   10.96.64.151   <none>        80:30080/TCP   39m   app=hello
